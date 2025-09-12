@@ -1,6 +1,6 @@
 
 
-# 📂 Fayl Qidiruv Tizimi Kali Linux uchun.
+# 📂 Fayl qidiruv tizimi Kali Linux uchun.
 
 Bu loyiha Prokuratura kontekstida tayyorlangan Python dasturi bo‘lib, **fayl va hujjatlarni tahlil qilish, metadata chiqarish va zaxiralash** funksiyalarini bajaradi. GUI orqali intuitiv boshqarish imkoniyati mavjud.
 
