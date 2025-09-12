@@ -2,7 +2,7 @@
 
 # 📂 Fayl Qidiruv Tizimi Kali Linux uchun.
 
-Bu loyiha prokuratura kontekstida tayyorlangan Python dasturi bo‘lib, **fayl va hujjatlarni tahlil qilish, metadata chiqarish va zaxiralash** funksiyalarini bajaradi. GUI orqali intuitiv boshqarish imkoniyati mavjud.
+Bu loyiha Prokuratura kontekstida tayyorlangan Python dasturi bo‘lib, **fayl va hujjatlarni tahlil qilish, metadata chiqarish va zaxiralash** funksiyalarini bajaradi. GUI orqali intuitiv boshqarish imkoniyati mavjud.
 
 ## 🔧 Texnologiyalar
 - Python 3.x
