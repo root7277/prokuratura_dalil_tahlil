@@ -1,8 +1,9 @@
 
 
-# 📂 Fayl boshqaruv tizimi Kali Linux uchun.
+## 📂 Elektron Hujjatlar Tahlili va Arxivlash Tizimi
 
-Bu loyiha Prokuratura kontekstida tayyorlangan Python dasturi bo‘lib, **fayl va hujjatlarni tahlil qilish, metadata chiqarish va zaxiralash** funksiyalarini bajaradi. GUI orqali intuitiv boshqarish imkoniyati mavjud.
+## ℹ️ Umumiy ma’lumot
+Elektron Hujjatlar Tahlili va Arxivlash Tizimi — bu elektron hujjat va fayllarni saqlash, tahlil qilish, qidirish va arxivlash uchun ishlab chiqilgan dastur. Tizim foydalanuvchilarga hujjatlarni tezkor boshqarish, tartibga solish va ulardan samarali foydalanish imkonini beradi.
 
 ## 🔧 Texnologiyalar
 - Python 3.x
@@ -21,8 +22,15 @@ Bu loyiha Prokuratura kontekstida tayyorlangan Python dasturi bo‘lib, **fayl v
 8. Qo'shilgan faylni qaytib yuklab olish imkoniyati.
 9. Faylni yuklab olishda xavfsizlik yani kod kiritgan holda yuklab olish
 
-## 🖼 Screenshots
+## 🏛 Qaysi sohalarda qo‘llash mumkin?
+Bu tizim turli sohalarda foydali bo‘lishi mumkin:
+⚖️ Huquqiy soha va prokuratura — jinoyat ishlari, dalillar va hujjatlarni tahlil qilish va arxivlash.
+🏛 Sud tizimi — elektron hujjatlar aylanishini yengillashtirish.
+🏢 Davlat idoralari — ma’lumotlar bazasini yuritish va hujjatlarni elektron arxivlash.
+🎓 Ta’lim muassasalari — ilmiy ishlar, talabalar hujjatlari va loyihalarni tartibli saqlash.
+💼 Xususiy sektor (kompaniyalar) — ichki hujjatlar, shartnomalar, hisobotlarni boshqarish.
 
+## 🖼 Screenshots
 ![Main Interface](screenshots/main_interface.png)
 *Asosiy GUI oynasi*
 
@@ -30,7 +38,6 @@ Bu loyiha Prokuratura kontekstida tayyorlangan Python dasturi bo‘lib, **fayl v
 *Qidiruv va natijalarni ko‘rsatish*
 
 ## 🚀 O‘rnatish va ishga tushirish
-
 1. Loyihani klonlash:
 ```bash
 git clone https://github.com/root7277/prokuratura_dalil_tahlil.git
