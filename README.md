@@ -15,7 +15,10 @@ Bu loyiha Prokuratura kontekstida tayyorlangan Python dasturi bo‘lib, **fayl v
 2. Fayllarni qo‘shish, tahrirlash va o‘chirish
 3. Fayllarni nomi yoki kengaytmasi bo‘yicha qidirish
 4. Eng katta fayl va yaqinda yaratilgan fayllarni ko‘rsatish
-5. Ma’lumotlarni Excel fayliga eksport qilish
+5. Yangi baza yaratadi
+6. Mavzud bazani ochib ishlatish imkoniyati
+7. Bazani o'chirish imkoniyati
+
 
 ## 🖼 Screenshots
 
