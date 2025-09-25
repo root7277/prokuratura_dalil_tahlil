@@ -18,7 +18,8 @@ Bu loyiha Prokuratura kontekstida tayyorlangan Python dasturi bo‘lib, **fayl v
 5. Yangi baza yaratadi
 6. Mavzud bazani ochib ishlatish imkoniyati
 7. Bazani o'chirish imkoniyati
-
+8. Qo'shilgan faylni qaytib yuklab olish imkoniyati.
+9. Faylni yuklab olishda xavfsizlik yani kod kiritgan holda yuklab olish
 
 ## 🖼 Screenshots
 
